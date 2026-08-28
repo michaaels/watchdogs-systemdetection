@@ -1,0 +1,4 @@
+*.cpp text eol=crlf
+*.bat text eol=crlf
+Makefile text eol=lf
+
